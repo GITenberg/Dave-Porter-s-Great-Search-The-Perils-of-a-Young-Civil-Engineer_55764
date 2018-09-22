@@ -1,11 +1,14 @@
 _repo: Dave-Porter-s-Great-Search-The-Perils-of-a-Young-Civil-Engineer_55764
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Rogers, Walter S.
     birthdate: 1871
     gutenberg_agent_id: '7671'
     url: http://www.gutenberg.org/2009/agents/7671
+covers:
+- cover_type: archival
+  image_path: 55764-h/images/cover.jpg
 creator:
   author:
     agent_name: Stratemeyer, Edward
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55764#Dave-Porter-s-Great-Search-The-Perils-of-a-Young-Civil-Engineer
 gutenberg_issued: '2017-10-17'
 gutenberg_type: Text
 identifiers:
