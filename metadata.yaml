@@ -1,0 +1,36 @@
+_repo: Dave-Porter-s-Great-Search-The-Perils-of-a-Young-Civil-Engineer_55764
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rogers, Walter S.
+    birthdate: 1871
+    gutenberg_agent_id: '7671'
+    url: http://www.gutenberg.org/2009/agents/7671
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Bonehill, Captain Ralph
+    - Bonehill, Ralph
+    - Winfield, Arthur M.
+    - Steward, Ray M.
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2017-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55764'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Dave Porter''s Great Search
+
+  The Perils of a Young Civil Engineer'
+url: http://www.gutenberg.org/ebooks/55764
